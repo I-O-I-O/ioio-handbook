@@ -75,6 +75,6 @@ In this project, we were asked to explain to graphic designers what Interaction 
 ### Technical Implementation
 We offer technical implementation of smaller-scale projects for teams within/connected to MaU. This can be a prototype, or a smaller part of a bigger project.
 
-Example case: QR scanner for the project [Material&Connection](https://s-p-o-k.se/sv/aktuellt/skaane-utstaellning-material-automation);
+Example case: QR scanner for the project [Material&Connection](https://s-p-o-k.se/sv/aktuellt/utstaellning-material-automation);
 
 The "Material&Connection" is a collaboration between S-P-O-K, IUC Syd and others exhibited in the Southern Swedish Designer Days 2025. The robotic arm, the physical material boards and the web page for the material were provided. Our contribution was the program that scans the QR codes via the camera and opens it on a display. The link brings you to the description of the project.
