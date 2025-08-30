@@ -17,14 +17,9 @@ Using the 5V pin to power output components like a Micro Servo or a NeoPixel rin
 In practice, this means that when you use a 5V sensor/component you will have to scale the output to make sure it fits within the 3.3V. It is not just a matter of cutting of the signal at 3.3V though, because that would mean discarding part of the data the sensor/component is outputting (this is represented by the yellow area in the picture above). 
 
 In preparation for situations where you need to do this, here are some helpful resources that can clear up some confusion on the topic:
-
-[Guide to 3V3 and 5V Power Supplies Differences | Arduino](https://docs.arduino.cc/learn/microcontrollers/5v-3v3/)
-
-
-[Resistor Voltage Divider | Stackexchange](https://electronics.stackexchange.com/a/176)
-
-
-[Voltage Divider | Wikipedia](https://en.wikipedia.org/wiki/Voltage_divider)
+- [Guide to 3V3 and 5V Power Supplies Differences](https://docs.arduino.cc/learn/microcontrollers/5v-3v3/)
+- [Resistor Voltage Divider](https://electronics.stackexchange.com/a/176)
+- [Voltage Divider](https://en.wikipedia.org/wiki/Voltage_divider)
 
 ## NeoPixel
 Depending on the NeoPixel ring you're using, you might have to use a 5V power supply to make it work. If that's the case, refer to the section above to learn how to get 5V supply from an Arduino Nano 33 BLE Sense.
