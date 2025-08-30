@@ -17,9 +17,9 @@ Using the 5V pin to power output components like a Micro Servo or a NeoPixel rin
 In practice, this means that when you use a 5V sensor/component you will have to scale the output to make sure it fits within the 3.3V. It is not just a matter of cutting of the signal at 3.3V though, because that would mean discarding part of the data the sensor/component is outputting (this is represented by the yellow area in the picture above). 
 
 In preparation for situations where you need to do this, here are some helpful resources that can clear up some confusion on the topic:
-- [Guide to 3V3 and 5V Power Supplies Differences | Arduino](https://docs.arduino.cc/learn/microcontrollers/5v-3v3/)
-- [Resistor Voltage Divider | Stackexchange](https://electronics.stackexchange.com/a/176)
-- [Voltage Divider | Wikipedia](https://en.wikipedia.org/wiki/Voltage_divider)
+[Guide to 3V3 and 5V Power Supplies Differences | Arduino](https://docs.arduino.cc/learn/microcontrollers/5v-3v3/)
+[Resistor Voltage Divider | Stackexchange](https://electronics.stackexchange.com/a/176)
+[Voltage Divider | Wikipedia](https://en.wikipedia.org/wiki/Voltage_divider)
 
 ## NeoPixel
 Depending on the NeoPixel ring you're using, you might have to use a 5V power supply to make it work. If that's the case, refer to the section above to learn how to get 5V supply from an Arduino Nano 33 BLE Sense.
@@ -45,8 +45,8 @@ Servos come in different sizes and gear types. Servos with plastic gears are mor
 ## Standalone Arduino Setup
 [This guide on Powering Alternatives](https://docs.arduino.cc/learn/electronics/power-pins/) can be a helpful resource to understand what the alternatives are in terms of powering an Arduino board that needs to be disconnected from a computer. In general, USB power banks are recommended since they provided a regulated 5V voltage that can also be accessed in the 5V pin on the Nano 33 BLE Sense.
 
-> [!NOTE]
-> When powering an Arduino project from one of the powering alternatives mentioned in the guide, make sure that the code doesn't rely on Serial communication to read or output data. If that's the case, the code will halt until it finds a matching serial port on a computer. If no computer is connected to the board, this will always fail and the code will never run.
+**NOTE**
+When powering an Arduino project from one of the powering alternatives mentioned in the guide, make sure that the code doesn't rely on Serial communication to read or output data. If that's the case, the code will halt until it finds a matching serial port on a computer. If no computer is connected to the board, this will always fail and the code will never run.
 
 ## Ardiuno and GUI interoperability
 There might be projects that require the use of physical components controlled with a GUI or, vice versa, a GUI that updates based on the input from physical components. For these scenarios, there are a few common options.
