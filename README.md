@@ -6,5 +6,6 @@ This is a handbook for students, teachers, and researchers using the lab. Here y
 **Table of contents**
 
 * [Services](services.md)
+* [Archive](archive.md)
 * [Lab Equipment](equipment.md)
 * [Associated Groups and Spaces](associations.md)
