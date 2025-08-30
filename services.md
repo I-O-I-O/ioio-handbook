@@ -1,6 +1,10 @@
 # IOIO Services
 
 * [Lending](#lending)
+  * [Kits](#kits)
+    * [Grove Kit](#grove-kit)
+    * [Breadboard Kit](#breadboard-kit)
+    * [Micro:bit](#microbit)
 * [Services for non-designers](#services-for-non-designers)
 
 ## Lending
