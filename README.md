@@ -1,4 +1,4 @@
-<img width="1536" alt="handbook-public" src="https://github.com/user-attachments/assets/68c723a7-6005-4ac8-bb62-75fa928a9db4" />
+<img width="1536" alt="handbook-public" src="./assets/handbook-public.png" />
 
 # IOIO Handbook
 This is a handbook for students, teachers, and researchers using the lab. Here you will find information on the services offered by IOIO and some guides on how to get started with electronics, 3D printing and soldering.
