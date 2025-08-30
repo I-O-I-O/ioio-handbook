@@ -7,5 +7,5 @@ This is a handbook for students, teachers, and researchers using the lab. Here y
 
 * [Services](services.md)
 * [Archive](archive.md)
+* [Frequent Issues](frequent-issues.md)
 * [Lab Equipment](equipment.md)
-* [Associated Groups and Spaces](associations.md)
