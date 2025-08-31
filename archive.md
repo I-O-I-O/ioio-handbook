@@ -23,6 +23,12 @@ Projects are best documented using images and videos. When submitting documentat
 
 If you want to provide videos along the text, please upload the video to YouTube or Vimeo first. You will then be able to submit a link to the video in the form. 
 
+#### File naming
+Before submitting files on the form, please ensure the pictures follow this naming convention: `student_id-section-number` where:
+- `student_id` is your computer identity username (e.g. XY1234)
+- `section` refers to what section in the text the picture belongs to (can be `process` or `artefact`)
+- `number` is just an index going from 0 to 9. Use numbering to specify in what order you want the pictures to appear.
+
 #### Uploading to YouTube
 [![Tutorial on how to upload your video to YouTube](./assets/uploading-to-youtube-thumbnail.png)](./assets/upload-your-video-to-youtube.webm)
 
