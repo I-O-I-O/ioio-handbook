@@ -1,4 +1,4 @@
-<img width="800" alt="IOIO Breadboard Kit" src="./assets/IOIO-Grove-Kit.jpg" />
+<img width="800" alt="IOIO Breadboard Kit" src="../assets/IOIO-Grove-Kit.jpg" />
 
 This kit includes an Arduino Nano 33 BLE Rev2 and uses the [Grove System](https://wiki.seeedstudio.com/Grove_System/) to simplify the prototyping process. The Grove System uses a standardized connector with four wires: power, ground, data 1 and data 2. To use the system, the Arduino board is placed in a [Grove Shield](https://wiki.seeedstudio.com/Grove_Shield_for_Arduino_Nano/).
 

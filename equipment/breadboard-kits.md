@@ -1,4 +1,4 @@
-<img width="800" alt="IOIO Breadboard Kit" src="./assets/IOIO-Breadboard-kit.jpg" />
+<img width="800" alt="IOIO Breadboard Kit" src="../assets/IOIO-Breadboard-kit.jpg" />
 
 The kit includes the following components:
 
