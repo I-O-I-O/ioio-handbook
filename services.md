@@ -25,6 +25,8 @@ Kits are boxes that students you borrow when you need a complete package that wi
 - [Breadboard Kit](equipment/breadboard-kits.md)
 - [Micro:bit](equipment/micro-bit.md)
 
+To check in or check out a Grove Kit, use the [Grove Kit Check In/Out Form](https://docs.google.com/forms/d/e/1FAIpQLSdDHvRRVndIVdWz5utq8IOggWQG5yb5WFe0TA36rq5e7kTeVg/viewform).
+
 ## Soldering
 
 You might need soldering when prototyping with microelectronics.
