@@ -14,3 +14,11 @@ The kit consists of the following components:
 - 1x [RGB LED Stick](https://wiki.seeedstudio.com/Grove-RGB_LED_Stick-10-WS2813_Mini/)
 - 1x [OWIIC to Grove adapter](https://www.adafruit.com/product/4528)
 - 1x Grove Servo cable
+
+## Check In / Check Out
+
+To check in or check out a Grove Kit, please use the form below:
+
+[Grove Kit Check In/Out Form](https://docs.google.com/forms/d/e/1FAIpQLSdDHvRRVndIVdWz5utq8IOggWQG5yb5WFe0TA36rq5e7kTeVg/viewform)
+
+<img width="200" alt="Grove Kit Check In/Out QR Code" src="../assets/grove-kit-checkinout-qr.png" />
