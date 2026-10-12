@@ -2,7 +2,7 @@
 
 ## Kits
 
-- [Grove Kit](equipment/grove-kits.md)
+- [Grove Kit](equipment/grove-kit-2026.md)
 - [Breadboard Kit](equipment/breadboard-kits.md)
 - [Micro:bit](equipment/micro-bit.md)
 
