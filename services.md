@@ -21,7 +21,7 @@ IOIO can assist you by lending a variety of electronic components and kits that 
 
 Kits are boxes that students you borrow when you need a complete package that with commonly used components. We currently offer three kinds of kits depending on availability or what platform you've been instructed to use.
 
-- [Grove Kit](equipment/grove-kits.md)
+- [Grove Kit](equipment/equipment.md)
 - [Breadboard Kit](equipment/breadboard-kits.md)
 - [Micro:bit](equipment/micro-bit.md)
 
